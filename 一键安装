@@ -1,0 +1,19 @@
+现安装主程序在安装面板
+
+主程序安装（落地机、中转机都需要安装）
+bash <(wget -qO- https://run.nodepass.eu/np.sh)
+
+部署Nodepass面板
+bash <(wget -qO- https://run.nodepass.eu/dash.sh)
+
+
+一键申请SSL证书
+bash <(curl -fsSL https://raw.githubusercontent.com/slobys/SSL-Renewal/main/acme.sh)
+
+
+3X-UI一键脚本
+bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
+
+Sing-Box一键脚本
+bash <(wget -qO- https://raw.githubusercontent.com/fscarmen/sing-box/main/sing-box.sh)
+
