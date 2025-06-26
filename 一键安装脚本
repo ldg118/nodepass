@@ -1,4 +1,4 @@
-现安装主程序在安装面板
+先安装主程序在安装面板
 
 主程序安装（落地机、中转机都需要安装）
 bash <(wget -qO- https://run.nodepass.eu/np.sh)
