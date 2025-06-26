@@ -6,6 +6,8 @@ bash <(wget -qO- https://run.nodepass.eu/np.sh)
 部署Nodepass面板
 bash <(wget -qO- https://run.nodepass.eu/dash.sh)
 
+面板卸载
+bash <(wget -qO- https://run.nodepass.eu/dash.sh) uninstall
 
 一键申请SSL证书
 bash <(curl -fsSL https://raw.githubusercontent.com/slobys/SSL-Renewal/main/acme.sh)
